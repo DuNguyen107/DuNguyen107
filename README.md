@@ -1,20 +1,40 @@
-# 💫About Me :
-- 👋 Hi, I’m **Le Nguyen Anh Du**
-- 📧 Contact me at dule1028a@gmail.com
-- 👀 I'm 2th-year student at **University of Transport and Communications campus in HCMC**
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Le+Nguyen+Anh+Du!;" />
+</h1>
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/dunguyen107/) 
+<br/>
 
-# 🛠 Languages and Tools
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊GitHub Stats 
-# 🏆 GitHub Trophies
+<div align="center">
+ 
+   # 💫About Me :
 
+  🌱 I'm 2th-year student at **University of Transport and Communications campus in HCMC**
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+  💬 Contact me at **dule1028a@gmail.com**
 
+ </div>
+ 
+<div align="center"> 
+ <a href="mailto:dule1028a@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+ </a>
+  <a href="https://www.facebook.com/dunguyen107/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=Du-Nguyen07&icon=0&color=0)](https://visitcount.itsvg.in)
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,java,mysql,vscode,github,git" /><br>
+</div>
+
+<br/>
+<hr/>
+<div align="center">
+  <h2 align="center">✍️Random Dev Quote</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
+</div>
+<br/><hr/>
